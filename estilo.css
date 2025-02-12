@@ -1,0 +1,113 @@
+
+
+header {
+    width: 1366px;
+    height: 200px;
+    background-color: black;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+}
+
+header img {
+    text-align: center;
+    align-items: center;
+    width: 215px;
+    height: 215px;
+    height: auto;
+    
+}
+
+nav {
+    width: 1366px;
+    height: 50px;
+    background-color: black;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.personaje { 
+    width: 1470px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.7); * {
+        font-family: "Raleway", serif;
+    }
+    
+    header {
+        width: 1600px;
+        height: 200px;
+        background-color: black;
+        margin: 0 auto;
+    }
+    
+    header img {
+        width: 100%;
+        height: auto;
+    }
+    
+    nav {
+        width: 1366px;
+        height: 50px;
+        background-color: black;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    
+    .personaje { 
+       
+        font-weight: 400;
+        font-style: normal;
+        width: 1366px;
+        height: 400px;
+        background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente para mejor lectura */
+        margin: 20px auto;
+        padding: 20px;
+        border-radius: 10px;
+        color: white; /* Para mejor contraste */
+    }
+    
+    body {
+
+        background-image: url(imag/fondo.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        color: white;
+    }
+    
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    color: white; /* Para mejor contraste */
+}
+
+body {
+    background-image: url(imag/fondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+footer{
+width: 1366px;
+height: 300px;
+background-color: black;
+margin: 0 auto;
+
+}
+
+p{
+   
+        font-family: "Kosugi Maru", serif;
+        font-weight: 400;
+        font-style: normal;
+    
+    
+}
